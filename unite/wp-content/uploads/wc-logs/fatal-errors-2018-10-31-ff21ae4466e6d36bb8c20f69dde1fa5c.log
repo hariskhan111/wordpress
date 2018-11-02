@@ -1,0 +1,213 @@
+2018-10-31T17:30:10+00:00 CRITICAL Uncaught Error: Class 'unite_films_widget' not found in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\widgets.php(115): WP_Widget_Factory->register('unite_films_wid...')
+#1 C:\xampp\htdocs\unite\wp-content\themes\unite\functions.php(134): register_widget('unite_films_wid...')
+#2 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): unite_widgets_init('')
+#3 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\unite\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\unite\wp-settings.php(450): do_action('init')
+#10 C:\xamp in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-10-31T17:31:18+00:00 CRITICAL Uncaught Error: Class 'unite_films_widget' not found in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\widgets.php(115): WP_Widget_Factory->register('unite_films_wid...')
+#1 C:\xampp\htdocs\unite\wp-content\themes\unite\functions.php(134): register_widget('unite_films_wid...')
+#2 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): unite_widgets_init('')
+#3 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\unite\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\unite\wp-settings.php(450): do_action('init')
+#10 C:\xamp in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-10-31T17:32:25+00:00 CRITICAL Uncaught Error: Class 'unite_films_widget' not found in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\widgets.php(115): WP_Widget_Factory->register('unite_films_wid...')
+#1 C:\xampp\htdocs\unite\wp-content\themes\unite\functions.php(134): register_widget('unite_films_wid...')
+#2 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): unite_widgets_init('')
+#3 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\unite\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\unite\wp-settings.php(450): do_action('init')
+#10 C:\xamp in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-10-31T17:33:40+00:00 CRITICAL Uncaught Error: Class 'unite_films_widget' not found in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\widgets.php(115): WP_Widget_Factory->register('unite_films_wid...')
+#1 C:\xampp\htdocs\unite\wp-content\themes\unite\functions.php(134): register_widget('unite_films_wid...')
+#2 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): unite_widgets_init('')
+#3 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\unite\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\unite\wp-settings.php(450): do_action('init')
+#10 C:\xamp in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-10-31T17:33:52+00:00 CRITICAL Uncaught Error: Class 'unite_films_posts_widget' not found in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\widgets.php(115): WP_Widget_Factory->register('unite_films_pos...')
+#1 C:\xampp\htdocs\unite\wp-content\themes\unite\functions.php(134): register_widget('unite_films_pos...')
+#2 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): unite_widgets_init('')
+#3 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\unite\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\unite\wp-settings.php(450): do_action('init')
+#10 C in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-10-31T17:36:13+00:00 CRITICAL Uncaught Error: Class 'unite_films_posts_widget' not found in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\widgets.php(115): WP_Widget_Factory->register('unite_films_pos...')
+#1 C:\xampp\htdocs\unite\wp-content\themes\unite\functions.php(134): register_widget('unite_films_pos...')
+#2 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): unite_widgets_init('')
+#3 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\unite\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\unite\wp-settings.php(450): do_action('init')
+#10 C in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-10-31T17:37:18+00:00 CRITICAL Uncaught Error: Class 'unite_films_posts_widget' not found in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\widgets.php(115): WP_Widget_Factory->register('unite_films_pos...')
+#1 C:\xampp\htdocs\unite\wp-content\themes\unite\functions.php(134): register_widget('unite_films_pos...')
+#2 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): unite_widgets_init('')
+#3 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\unite\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\unite\wp-settings.php(450): do_action('init')
+#10 C in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-10-31T17:39:05+00:00 CRITICAL Uncaught Error: Class 'unite_films_widget' not found in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\widgets.php(115): WP_Widget_Factory->register('unite_films_wid...')
+#1 C:\xampp\htdocs\unite\wp-content\themes\unite\functions.php(137): register_widget('unite_films_wid...')
+#2 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): unite_widgets_init('')
+#3 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\unite\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\unite\wp-settings.php(450): do_action('init')
+#10 C:\xamp in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-10-31T17:40:32+00:00 CRITICAL Uncaught Error: Class 'unite_films_widget' not found in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\widgets.php(115): WP_Widget_Factory->register('unite_films_wid...')
+#1 C:\xampp\htdocs\unite\wp-content\themes\unite\functions.php(137): register_widget('unite_films_wid...')
+#2 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): unite_widgets_init('')
+#3 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\unite\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\unite\wp-settings.php(450): do_action('init')
+#10 C:\xamp in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-10-31T17:42:14+00:00 CRITICAL Uncaught Error: Class 'unite_films_widget' not found in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\widgets.php(115): WP_Widget_Factory->register('unite_films_wid...')
+#1 C:\xampp\htdocs\unite\wp-content\themes\unite\functions.php(137): register_widget('unite_films_wid...')
+#2 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): unite_widgets_init('')
+#3 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\unite\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\unite\wp-settings.php(450): do_action('init')
+#10 C:\xamp in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-10-31T17:42:50+00:00 CRITICAL Uncaught Error: Class 'unite_films_widget' not found in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php:100
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\widgets.php(115): WP_Widget_Factory->register('unite_films_wid...')
+#1 C:\xampp\htdocs\unite\wp-content\themes\unite\functions.php(137): register_widget('unite_films_wid...')
+#2 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): unite_widgets_init('')
+#3 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\unite\wp-includes\widgets.php(1649): do_action('widgets_init')
+#6 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(286): wp_widgets_init('')
+#7 C:\xampp\htdocs\unite\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\unite\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\unite\wp-settings.php(450): do_action('init')
+#10 C:\xamp in C:\xampp\htdocs\unite\wp-includes\class-wp-widget-factory.php on line 100
+
+2018-10-31T17:46:06+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on array in C:\xampp\htdocs\unite\wp-content\themes\unite\inc\widgets\films-posts-widget.php:50
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\class-wp-widget.php(372): unite_films_posts_widget->widget(Array, Array)
+#1 C:\xampp\htdocs\unite\wp-includes\widgets.php(743): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\unite\wp-content\themes\unite\front-page.php(30): dynamic_sidebar('home1')
+#3 C:\xampp\htdocs\unite\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\unite\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\unite\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\unite\wp-content\themes\unite\inc\widgets\films-posts-widget.php on line 50
+
+2018-10-31T17:47:42+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on array in C:\xampp\htdocs\unite\wp-content\themes\unite\inc\widgets\films-posts-widget.php:50
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\class-wp-widget.php(372): unite_films_posts_widget->widget(Array, Array)
+#1 C:\xampp\htdocs\unite\wp-includes\widgets.php(743): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\unite\wp-content\themes\unite\front-page.php(30): dynamic_sidebar('home1')
+#3 C:\xampp\htdocs\unite\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\unite\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\unite\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\unite\wp-content\themes\unite\inc\widgets\films-posts-widget.php on line 50
+
+2018-10-31T17:48:48+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in C:\xampp\htdocs\unite\wp-content\themes\unite\inc\widgets\films-posts-widget.php:130
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\class-wp-widget.php(372): unite_films_posts_widget->widget(Array, Array)
+#1 C:\xampp\htdocs\unite\wp-includes\widgets.php(743): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\unite\wp-content\themes\unite\front-page.php(30): dynamic_sidebar('home1')
+#3 C:\xampp\htdocs\unite\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\unite\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\unite\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\unite\wp-content\themes\unite\inc\widgets\films-posts-widget.php on line 130
+
+2018-10-31T17:51:18+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\unite\wp-content\themes\unite\inc\widgets\films-posts-widget.php on line 89
+
+2018-10-31T17:51:26+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\unite\wp-content\themes\unite\inc\widgets\films-posts-widget.php on line 117
+
+2018-10-31T17:52:25+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on array in C:\xampp\htdocs\unite\wp-content\themes\unite\inc\widgets\films-posts-widget.php:52
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\class-wp-widget.php(372): unite_films_posts_widget->widget(Array, Array)
+#1 C:\xampp\htdocs\unite\wp-includes\widgets.php(743): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\unite\wp-content\themes\unite\front-page.php(30): dynamic_sidebar('home1')
+#3 C:\xampp\htdocs\unite\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\unite\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\unite\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\unite\wp-content\themes\unite\inc\widgets\films-posts-widget.php on line 52
+
+2018-10-31T17:54:31+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on array in C:\xampp\htdocs\unite\wp-content\themes\unite\inc\widgets\films-posts-widget.php:56
+Stack trace:
+#0 C:\xampp\htdocs\unite\wp-includes\class-wp-widget.php(372): unite_films_posts_widget->widget(Array, Array)
+#1 C:\xampp\htdocs\unite\wp-includes\widgets.php(743): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\unite\wp-content\themes\unite\front-page.php(30): dynamic_sidebar('home1')
+#3 C:\xampp\htdocs\unite\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\unite\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\unite\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\unite\wp-content\themes\unite\inc\widgets\films-posts-widget.php on line 56
+
